@@ -2831,6 +2831,11 @@ clone-deep@^2.0.1:
     kind-of "^6.0.0"
     shallow-clone "^1.0.0"
 
+cloudfoundry-cli@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/cloudfoundry-cli/-/cloudfoundry-cli-0.8.0.tgz#2144856b792126aa978e6d385b6c194aff94f656"
+  integrity sha1-IUSFa3khJqqXjm04W2wZSv+U9lY=
+
 co@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
